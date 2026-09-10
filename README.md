@@ -6,11 +6,11 @@ A multidisciplinary senior design project centered on a **RASSOR-inspired four-w
 
 ## Project Highlights
 
-- 🏆 **Finalist** — 2026 UCF Industrial Engineering & Management Systems Senior Design Showcase
-- 🥇 **1st Place** — Senior Design Project Competition, 7th Latin American IEOM Conference, Panama City (2026)
-- 🥇 **1st Place** — Poster Competition, 7th Latin American IEOM Conference, Panama City (2026)
-- 📄 Project research later developed into conference/proceedings work with the senior design team listed as co-authors
-- 🚀 Project supported by funding from the **Florida Space Institute**
+- **Finalist** — 2026 UCF Industrial Engineering & Management Systems Senior Design Showcase
+- **1st Place** — Senior Design Project Competition, 7th Latin American IEOM Conference, Panama City (2026)
+- **1st Place** — Poster Competition, 7th Latin American IEOM Conference, Panama City (2026)
+- Project research later developed into conference/proceedings work with the senior design team listed as co-authors
+- Project supported by funding from the **Florida Space Institute**
 
 ## The Problem
 
