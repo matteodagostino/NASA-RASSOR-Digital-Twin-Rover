@@ -6,7 +6,6 @@ This repository documents my work on a multidisciplinary senior design project a
 
 The project combined a physical rover, remote operation, sensing, and a digital representation of the rover and its environment. My primary responsibility was **Assembly and Development**, with additional contributions to technical research and documentation.
 
-![RASSOR rover at the UCF Senior Design Showcase](senior%20design%20showcase.jpeg)
 
 ## Project Highlights
 
