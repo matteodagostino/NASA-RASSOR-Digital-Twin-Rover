@@ -9,8 +9,7 @@ A multidisciplinary senior design project centered on a **RASSOR-inspired four-w
 - 🏆 **Finalist** — 2026 UCF Industrial Engineering & Management Systems Senior Design Showcase
 - 🥇 **1st Place** — Senior Design Project Competition, 7th Latin American IEOM Conference, Panama City (2026)
 - 🥇 **1st Place** — Poster Competition, 7th Latin American IEOM Conference, Panama City (2026)
-- 📄 **Co-author** — *Simulation-Gated Lunar Rover Autonomy with a Live, Scene-Aware Digital Twin*
-- 📚 Related contribution prepared for the **Springer Nature Communications in Computer and Information Science (CCIS)** proceedings
+- 📄 Project research later developed into conference/proceedings work with the senior design team listed as co-authors
 - 🚀 Project supported by funding from the **Florida Space Institute**
 
 ## The Problem
@@ -54,7 +53,7 @@ Physical Rover via ROS 2
 
 ## My Contributions — Matteo D'Agostino
 
-This was a collaborative senior design and research project. My primary role was **Assembly and Development**, alongside technical documentation and project support.
+This was a collaborative senior design project. My primary role was **Assembly and Development**, alongside technical documentation and project support.
 
 ### Rover Assembly & Hardware Development
 
@@ -80,10 +79,6 @@ I contributed directly to multiple project reports:
 
 My research included engineering and safety standards, responsible computing considerations, teleoperation literature, material/safety documentation, and the broader sustainability implications of digital-twin and autonomous robotic systems.
 
-### Data Science / Digital Twin Support
-
-As a Data Science team member, I also supported the broader implementation and analysis effort surrounding the lunar rover digital-twin framework. The final conference paper identifies my project work as supporting **data analysis, software implementation, and digital twin development**.
-
 ## From Physical Rover to Digital Twin
 
 The project evolved through several stages:
@@ -96,7 +91,9 @@ The project evolved through several stages:
 6. **Validate candidate commands** — replay proposed wheel-command sequences in physics before physical execution.
 7. **Measure sim-to-real fidelity** — compare simulated endpoints with physical rover measurements and use discrepancies to improve calibration.
 
-## Experimental Results
+> The digital-twin architecture, command-validation research, and later experimental results described below were **team outcomes**. They are included to explain the system my hardware and assembly work supported, not as claims that I personally implemented every component.
+
+## Experimental Results — Team Outcomes
 
 The later research phase evaluated both the command-validation gate and agreement between the digital twin and physical rover.
 
@@ -116,7 +113,7 @@ After recalibrating the rover's wheel-step parameters:
 - Post-calibration endpoint/pivot errors ranged from **0.3–0.7 cm** across the tested conditions.
 - Mean simulated-to-measured error across those conditions was approximately **0.5 cm**.
 
-This was an important result because the digital twin was useful not only for command screening, but also as a diagnostic tool for identifying and correcting physical rover calibration errors.
+These results demonstrate how the team's digital twin could support both command screening and physical rover calibration.
 
 ## Recognition
 
@@ -133,17 +130,11 @@ The project received:
 - **First Place — Senior Design Project Competition**
 - **First Place — Poster Competition**
 
-## Publication / Research Output
+## Research Output
 
-**Conference paper:**
+Work originating from the senior design project was later developed into conference/proceedings research. I am listed as a **co-author based on my contributions to the underlying senior design project and prior project work**; I did **not** personally write the later conference/proceedings manuscript.
 
-*Simulation-Gated Lunar Rover Autonomy with a Live, Scene-Aware Digital Twin*
-
-Carson Gray, Jennifer Cifuentes, Abdiel Joseph, **Matteo D'Agostino**, Jonathan Gyure, Noah Y. Choi, Sean Crites, Luis C. Rabelo, and Mansooreh Mollaghasemi.
-
-Proceedings of the 7th Latin American Conference on Industrial Engineering and Operations Management, Panama City, Panama, August 4–6, 2026.
-
-A related contribution titled *An AI-Enabled Digital Twin Framework for Safe, Scene-Aware Lunar Rover Autonomy* is associated with the Springer Nature **Communications in Computer and Information Science (CCIS)** proceedings process. This repository will link the Version of Record/DOI when publicly available.
+This distinction is intentional: this repository focuses on the work I personally performed during senior design while acknowledging the subsequent research outcomes of the team.
 
 ## Project Showcase Video
 
@@ -151,7 +142,7 @@ A related contribution titled *An AI-Enabled Digital Twin Framework for Safe, Sc
 
 ## Technologies & Concepts
 
-`Python` · `ROS 2` · `NVIDIA Isaac Sim` · `NVIDIA nvblox` · `NVIDIA cuVSLAM` · `RGB-D / LiDAR` · `Digital Twins` · `Robotics` · `Simulation` · `Data Analysis` · `3D Printing` · `Hardware Integration` · `Sim-to-Real Validation`
+`ROS 2` · `NVIDIA Isaac Sim` · `NVIDIA nvblox` · `NVIDIA cuVSLAM` · `RGB-D / LiDAR` · `Digital Twins` · `Robotics` · `Simulation` · `3D Printing` · `Hardware Integration` · `Sim-to-Real Validation`
 
 ## Repository Roadmap
 
@@ -169,4 +160,4 @@ NASA-RASSOR-Digital-Twin-Rover/
     └── publication-links.md
 ```
 
-> **Attribution:** This repository documents my work and experience as a member of a multidisciplinary UCF senior design team. Results described as project or research outcomes reflect the collaborative work of the listed team and faculty advisors; sections labeled **My Contributions** describe my individual involvement.
+> **Attribution:** This repository documents my work and experience as a member of a multidisciplinary UCF senior design team. Results described as project or research outcomes reflect collaborative team work; sections labeled **My Contributions** describe my individual involvement.
