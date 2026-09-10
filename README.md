@@ -6,6 +6,8 @@ This repository documents my work on a multidisciplinary senior design project a
 
 The project combined a physical rover, remote operation, sensing, and a digital representation of the rover and its environment. My primary responsibility was **Assembly and Development**, with additional contributions to technical research and documentation.
 
+![RASSOR rover at the UCF Senior Design Showcase](senior%20design%20showcase.jpeg)
+
 ## Project Highlights
 
 - **Finalist** — 2026 UCF Senior Design Showcase, Industrial Engineering & Management Systems
@@ -47,6 +49,8 @@ This became one of the most important parts of my experience on the project: tak
 
 I also helped set up and integrate the rover's electrical components, including the motor/electronics connections required for the physical platform. This work supported subsequent rover movement, control, and testing by the team.
 
+![Electrical components and motor setup](electrical%20components.jpeg)
+
 ## My Technical Writing & Research Contributions
 
 In addition to the physical build, I contributed directly to all three major senior-design reports.
@@ -87,24 +91,26 @@ The final presentation brought those stages together and demonstrated the comple
 
 ## Project Documents
 
-The following original senior-design deliverables are part of the project portfolio and will be included in this repository:
+These are the original senior-design deliverables. Each is a **team document**; the sections above identify the portions I personally authored.
 
-- **Project Proposal Report** — includes my Problem Statement and Standards sections
-- **AS-IS Report** — includes my Broader Impacts on Sustainability and Beyond section
-- **TO-BE Report** — includes my Sources of Knowledge, Standards, and Best Practices Consulted section
-- **TO-BE / Final Presentation** — team presentation of the completed system
-
-These documents are team deliverables. The sections above identify the portions I personally authored.
+- [Project Proposal Report](SUBMITTED%20FSI%20Group%202%20-%20Project%20Proposal%20Report.docx%20%281%29.pdf) — includes my **Problem Statement** and **Standards** sections
+- [AS-IS Report](FSI%20Group%202%20AS-IS%20Report.docx.pdf) — includes my **Broader Impacts on Sustainability and Beyond** section
+- [TO-BE Report](To-Be%20Report%20%281%29.pdf) — includes my **Sources of Knowledge, Standards, and Best Practices Consulted** section
+- [Final / TO-BE Presentation](To-Be%20Presentation.pdf) — team presentation of the completed rover and digital-twin system
 
 ## Media & Demonstration
 
-The project portfolio also includes media from the physical build and testing process, including:
+The repository includes development footage from the physical build and testing process. These clips document the rover during assembly, troubleshooting, integration, and movement testing.
 
-- Rover assembly and hardware-development footage
-- Physical rover movement/testing videos
-- Electronics and motor setup
-- Completed rover at the UCF Senior Design Showcase
-- Panama conference/award photos
+### Development & Testing Clips
+
+- [IMG_9252.mp4](IMG_9252.mp4)
+- [IMG_9262.mp4](IMG_9262.mp4)
+- [IMG_9273.mp4](IMG_9273.mp4)
+- [IMG_9437.mp4](IMG_9437.mp4)
+- [IMG_9461.mp4](IMG_9461.mp4)
+- [IMG_9462.mp4](IMG_9462.mp4)
+- [IMG_9533.mp4](IMG_9533.mp4)
 
 ### Showcase Video
 
@@ -118,6 +124,8 @@ The team's final showcase video is available on YouTube:
 
 The project was selected as a **finalist in the Industrial Engineering & Management Systems Senior Design competition** and presented at UCF's 2026 Senior Design Showcase.
 
+![Project displayed at the UCF Senior Design Showcase](senior%20design%20showcase.jpeg)
+
 ### 7th Latin American IEOM Conference — Panama City, 2026
 
 The project was later presented at the **7th Latin American Conference on Industrial Engineering and Operations Management** in Panama City, Panama.
@@ -126,6 +134,8 @@ The project received:
 
 - **First Place — Senior Design Project Competition**
 - **First Place — Poster Competition**
+
+![IEOM competition and poster awards](panama%20poster.jpeg)
 
 ## Springer Nature Publication
 
