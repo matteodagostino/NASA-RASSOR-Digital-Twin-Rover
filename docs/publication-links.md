@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=eT9YaH16bUE
 
 ## Recognition
 
-- Finalist — 2026 UCF Industrial Engineering & Management Systems Senior Design Showcase
+- Finalist — 2026 UCF Senior Design Showcase - Industrial Engineering & Management Systems
 - First Place — Senior Design Project Competition, 7th Latin American IEOM Conference, Panama City, 2026
 - First Place — Poster Competition, 7th Latin American IEOM Conference, Panama City, 2026
 
