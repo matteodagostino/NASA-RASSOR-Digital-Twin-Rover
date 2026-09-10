@@ -11,8 +11,8 @@ The project combined a physical rover, remote operation, sensing, and a digital 
 - **Finalist** — 2026 UCF Senior Design Showcase, Industrial Engineering & Management Systems
 - **1st Place** — Senior Design Project Competition, 7th Latin American IEOM Conference, Panama City (2026)
 - **1st Place** — Poster Competition, 7th Latin American IEOM Conference, Panama City (2026)
+- **Springer Nature publication** — work originating from the project is scheduled for publication in the *Communications in Computer and Information Science (CCIS)* proceedings, with the senior design team listed as co-authors
 - Supported through the **Florida Space Institute**
-- The team's senior-design work later contributed to conference/proceedings research, with the senior design team listed as co-authors
 
 ## Project Goal
 
@@ -127,11 +127,11 @@ The project received:
 - **First Place — Senior Design Project Competition**
 - **First Place — Poster Competition**
 
-## Subsequent Research
+## Springer Nature Publication
 
-Work originating from the senior design project was later developed into conference/proceedings research. I am listed as a **co-author because of my contributions to the underlying senior-design project and the work completed before the manuscript was developed**. I did **not** personally write the later conference/proceedings manuscript.
+The senior-design work later developed into a proceedings contribution titled **_An AI-Enabled Digital Twin Framework for Safe, Scene-Aware Lunar Rover Autonomy_**, scheduled for publication through Springer Nature in the **Communications in Computer and Information Science (CCIS)** series.
 
-This repository is therefore centered on the senior-design work I personally performed rather than presenting the later publication's research as my individual work.
+I am listed as a **co-author based on my contributions to the underlying senior-design project and the work completed before the manuscript was developed**. I did **not** personally write the later manuscript. The official Springer/DOI link will be added here once the publication is publicly available.
 
 ---
 
